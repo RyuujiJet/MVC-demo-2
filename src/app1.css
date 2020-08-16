@@ -1,0 +1,12 @@
+#app1{}
+
+#app1 .output {}
+
+#app1 .actions{}
+
+#app1 .actions >button{
+  width: 50px;
+  height: 30px;
+  margin-top: 20px;
+  margin-right: 5px;
+}
